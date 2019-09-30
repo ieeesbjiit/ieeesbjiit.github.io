@@ -9,4 +9,4 @@ IEEE at JIIT is a student branch run by students of different branches of B.Tech
 Through events, activities and projects, IEEE offers multiple educational and professional skills.
 
 ### Email us at: ieeesbjiitweb@gmail.com
-### Or Contact : PraNAV sACHDEVA : +91 9582226481
+### Or Contact : Pranav Sachdeva : +91 9582226481
