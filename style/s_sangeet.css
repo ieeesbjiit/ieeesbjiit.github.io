@@ -1,7 +1,8 @@
 .about {
-    min-height: 100vh;
+    max-height: 100vh;
     display: flex;
     flex-wrap: wrap;
+    margin: 8rem 0;
 }
 
 .a_left {
@@ -84,9 +85,9 @@
     }
 }
 
-.a_right {
-    width: 50%;
-}
+/* .a_right {
+    width: 100%;
+} */
 
 canvas {
     position: absolute;
@@ -95,12 +96,18 @@ canvas {
 
 .a_text {
     margin-top: 13rem;
-    margin-left: 3rem;
+    margin: 0 7rem;
     padding-right: 0;
 }
 
+.a_text h1{
+    margin: 50px 0;
+}
+
 .a_text p {
-    width: 75%;
+    text-align: justify;
+    line-height: 2rem;
+    margin-top: 30px;
 }
 
 /* .bottom{
